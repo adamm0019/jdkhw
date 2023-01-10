@@ -36,7 +36,7 @@ import oshi.util.FormatUtil;
 public class HardwareDetectGUI extends javax.swing.JFrame {
 
     /**
-     * Creates new form FlightBookingGUI
+     * Creates new form
      */
     public HardwareDetectGUI() {
         initComponents();
